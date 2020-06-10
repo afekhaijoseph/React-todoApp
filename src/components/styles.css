@@ -1,0 +1,48 @@
+h2{
+  font-family: cursive;
+}
+.input-container{
+  background: rgb(18, 18, 36);
+  padding:10px 50px;
+  margin:auto;
+}
+input{
+  border:none;
+  padding:12px 27px;
+  margin:5px;
+  border-radius:5px;
+  font-size:17px;
+}
+.click{
+  border:none;
+  margin-left:25px;
+  background:none;
+}
+
+.todo{
+  background:lightblue;
+  border:1px solid white;
+  padding:15px 7px;
+  text-align:left;
+}
+
+.delete{
+  float:right;
+  background:none;
+  border:none;
+}
+.delete:active{
+  border:none;
+}
+.container{
+    background:lightblue;
+    display:inline-block;
+    padding:5px 0 20px 0;
+    margin-top:200px;
+    
+}
+.counter{
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding:0;
+  margin:13px 0 0 0;
+}
